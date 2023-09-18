@@ -1,0 +1,13 @@
+train: PPE/train/images
+val: PPE/valid/images
+test: PPE/test/images
+
+nc: 6
+
+names:
+  0: glass
+  1: gozluk
+  2: head
+  3: helmet
+  4: person
+  5: vest
